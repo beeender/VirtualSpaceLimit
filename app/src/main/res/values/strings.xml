@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">VirtualSpaceLimit</string>
     <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="_1">1</string>
+    <string name="threads_count_map_same_amount_memory_multiple_times">Threads count (map same amount memory multiple times):</string>
 </resources>
